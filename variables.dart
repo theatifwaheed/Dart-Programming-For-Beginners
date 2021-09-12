@@ -4,7 +4,7 @@ void main() {
   var doub = 12.1; // double
   var truefalse = true; // bool
 
-  String _word = "theatifwaheed.com";
+  String _word = "theatifwaheed.com"; //String
   int _num = 5; // only integer
   double _double = 10.8; // only double... factornumbers...
   bool _truefalse = false; // Only True & False
