@@ -1,3 +1,8 @@
+/*
+  In this, we'll be going to know the data-types used in Dart Language and
+    How to declare data-types...
+*/
+
 void main() {
   var word = "theatifwaheed"; //saves any... according to input...
   var number = 15; // integer

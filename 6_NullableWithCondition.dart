@@ -1,3 +1,8 @@
+/*
+  In this, we'll be going to store any value if the variable is
+    Null.
+*/
+
 void main() {
   String? word; // we have to enter Question mark with datatype
   print("NullWord: ${word}"); // it will show error if we dont use ?.

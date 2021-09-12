@@ -1,3 +1,8 @@
+/*
+  In this, we'll be going to know about RunTimeType.
+    What is the type of variable in running mode.
+*/
+
 void main() {
   var word = "theatifwaheed"; //saves any... according to input...
   var number = 15; // integer

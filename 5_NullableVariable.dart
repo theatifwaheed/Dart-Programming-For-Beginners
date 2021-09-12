@@ -1,3 +1,9 @@
+/*
+  In this, We'll be going to know how to make Variable store
+    Null value..
+    Variable can have Null in it.
+*/
+
 void main() {
   String? _NullString; // we have to enter Question mark with datatype
   // it will show error if we dont use ?.

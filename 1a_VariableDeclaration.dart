@@ -1,3 +1,8 @@
+/*
+  In this, we will be going to know about the declaration of Variables.
+  We can use Underscores, SmallLetters, CapitalLetters, Numbers but not in
+    Start, Dollar Sign.
+*/
 void main() {
   // This can be used in any DataType.
   // Correct.
