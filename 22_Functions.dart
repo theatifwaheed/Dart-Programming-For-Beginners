@@ -6,4 +6,5 @@ void PrintName() {
 void main() {
   // Using Simple Function in Dart
   PrintName();
+  // Just call Function Name with Brackets
 }
