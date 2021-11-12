@@ -1,6 +1,6 @@
 void main() {
   List P = [1, 2, 3, 4, 5, 6];
-  int sum = 0;
+  // int sum = 0;
 
   P.forEach((element) {
     print(element);
