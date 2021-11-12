@@ -1,10 +1,9 @@
-void printingName(String name) {
-  print("Name is " + name);
+// Making Function without Parameter
+void PrintName() {
+  print("My Name is TheAtifWaheed");
 }
 
 void main() {
-  // Functions in Dart
-  print("Hello there !");
-  String MyName = "TheAtifWaheed";
-  printingName(MyName);
+  // Using Simple Function in Dart
+  PrintName();
 }
